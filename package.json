@@ -1,0 +1,23 @@
+{
+  "name": "neogcamp-session-1-quiz-app",
+  "version": "1.0.0",
+  "description": "Do you know Amaan quiz app made for the neogcamp markOne submission.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaan56/neogcamp-session-1-quiz-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaan56/neogcamp-session-1-quiz-app/issues"
+  },
+  "homepage": "https://github.com/Amaan56/neogcamp-session-1-quiz-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
